@@ -435,8 +435,8 @@ confluence
 connectdevelop
 contao
 cotton-bureau
-fortyTwoGroup
-fiveHundredPx
+forty-two-group
+five-hundred-px
 accessible-icon
 accusoft
 adn
